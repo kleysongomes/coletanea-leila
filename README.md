@@ -1,2 +1,1 @@
-# coletania-leila
-Site de coletania de músicas para culto de gratidão
+Coletânia de músicas para culto de gratidão.
